@@ -1,0 +1,22 @@
+
+/* configuração para toda a pagina */
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;        
+}
+/* conf os links */
+a{
+    text-decoration: none;
+    color: #fff;
+}
+/* conf as listas */
+ul{
+    list-style: none;
+}
+/* conf as imagens */
+img{
+    max-width: 100%;    
+}
